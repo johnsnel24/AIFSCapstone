@@ -41,13 +41,19 @@ Detail the initial brainstorming process, concept selection, and the unique valu
 ### Agile Planning
 Outline the Agile planning process, including  planning, defining user stories, and setting up project management tools.
 
-Document phase  goals focused on setting up the project's foundational elements— proposal submission, community engagement for feedback, revision processes, endorsements by trusted members, and adoption by organizations.  Highlight how GitHub Copilot contributed to refining user stories and goals, ensuring a broad coverage of platform functionalities. nclude screenshots and examples of the project board setup and user story formats.
+Document phase  goals focused on setting up the project's foundational elements— proposal submission, community engagement for feedback, revision processes, endorsements by trusted members, and adoption by organizations.  Highlight how GitHub Copilot contributed to refining user stories and goals, ensuring a broad coverage of platform functionalities. Include screenshots and examples of the project board setup and user story formats.
 
-Why did I do what I did?
+### Description of AI Tools Usage
+Provide a brief description of:
+1. AI tools or technologies used in your project.
+2. How they helped you to achieve your project goals.
+3. What challenges and limitations that you encountered (what worked and what didn't work)
 
-What challenges/Limitations did I encounter
+### Declaration of Ethical Use
+Provide a declaration of your commitment to ethical AI practices in the development and maintenance of your project, reflecting your project's use of AI. You can use Microsoft CoPilot (or write your own) to generate this declaration, ensuring to include details that AI was used in your project. For example, if AI was used to create code snippets, textual content, generate images, or perform any other tasks, mention it in your declaration.
 
-How did it help?
+### Ethical Considerations
+Summarize key points discussed during your meetings and identify areas that could be considered for your project. 
 
 ### Environment Setup
 Describe the process of selecting and setting up the development environment, including version control systems and choice of tech stack.
