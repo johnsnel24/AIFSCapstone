@@ -50,7 +50,13 @@ Provide a brief description of:
 3. What challenges and limitations that you encountered (what worked and what didn't work)
 
 ### Declaration of Ethical Use
-Provide a declaration of your commitment to ethical AI practices in the development and maintenance of your project, reflecting your project's use of AI. You can use Microsoft CoPilot (or write your own) to generate this declaration, ensuring to include details that AI was used in your project. For example, if AI was used to create code snippets, textual content, generate images, or perform any other tasks, mention it in your declaration.
+Declare the use of AI in your project as previously outlined. Address the following ethical considerations and modify the list as necessary:
+- Gender or sexual identity bias
+- Racial bias
+- Age bias
+- Accessibility
+- Cultural sensitivity
+Delete or add items as needed to reflect how these issues were considered during your project's development.
 
 ### Ethical Considerations
 Summarize key points discussed during your meetings and identify areas that could be considered for your project. 
