@@ -56,6 +56,7 @@ Declare the use of AI in your project as previously outlined. Address the follow
 - Age bias
 - Accessibility
 - Cultural sensitivity
+
 Delete or add items as needed to reflect how these issues were considered during your project's development.
 
 ### Ethical Considerations
