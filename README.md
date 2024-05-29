@@ -9,6 +9,7 @@
     - [Agile Planning](#agile-planning)
     - [Description of AI Tools Usage](#description-of-ai-tools-usage)
     - [Declaration of Ethical Use](#declaration-of-ethical-use)
+    - [Ethical Considerations](#ethical-considerations)
     - [Environment Setup](#environment-setup)
     - [Initial Design and Wireframing](#initial-design-and-wireframing)
 3. [Phase 2: - Basic Features Development](#phase-2--1---basic-features-development)
