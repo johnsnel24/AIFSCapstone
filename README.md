@@ -7,6 +7,7 @@
 2. [Phase 1: Ideation, Planning, and Setup](#phase-1-ideation-planning-and-setup)
     - [Ideation and Conceptualization](#ideation-and-conceptualization)
     - [Agile Planning](#agile-planning)
+    - [Description of AI Tools Usage](#description-of-at-tools-usage)
     - [Environment Setup](#environment-setup)
     - [Initial Design and Wireframing](#initial-design-and-wireframing)
 3. [Phase 2: - Basic Features Development](#phase-2--1---basic-features-development)
